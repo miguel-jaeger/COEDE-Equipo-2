@@ -23,6 +23,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Llamamos a la función para cada sección
-    cargarContenido('pages/jaeger.html', 'presentacion');
+    cargarContenido('pages/5.html', 'est5');
+    cargarContenido('pages/4.html', 'est4');
+    cargarContenido('pages/3.html', 'est3');
+    cargarContenido('pages/2.html', 'est2');
+    cargarContenido('pages/1.html', 'est1');
 
 });
