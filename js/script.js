@@ -28,5 +28,6 @@ document.addEventListener('DOMContentLoaded', () => {
     cargarContenido('page/colquehuanca.html', 'est3');
     cargarContenido('page/moran.html', 'est2');
     cargarContenido('page/velasquez.html', 'est5');
+    cargarContenido('page/prucom(no tocar).html', 'est6');
 
 });
