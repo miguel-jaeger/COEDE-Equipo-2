@@ -23,10 +23,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Llamamos a la función para cada sección
-    cargarContenido('pages/5.html', 'est5');
-    cargarContenido('pages/4.html', 'est4');
-    cargarContenido('pages/3.html', 'est3');
-    cargarContenido('pages/2.html', 'est2');
-    cargarContenido('pages/1.html', 'est1');
+    cargarContenido('page/arbildo.html', 'est1');
+    cargarContenido('page/blas.html', 'est4');
+    cargarContenido('page/colquehuanca.html', 'est3');
+    cargarContenido('page/moran.html', 'est2');
+    cargarContenido('page/velasquez.html', 'est5');
 
 });
