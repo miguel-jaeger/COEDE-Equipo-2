@@ -42,6 +42,14 @@ h1 {
 .foto{
     float: left;
 }
+.escudo{
+    float: left;
+    margin: 33px -153px 0 59px;
+}
+.escudo2{
+    float: left;
+    margin: 39px 0px -215px 927px;
+}
 
 .datos-personales ul{
     float: left;
