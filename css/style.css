@@ -9,7 +9,8 @@ body {
 h1 {
     text-align: center;
     font-size: 2.5em;
-    text-decoration: underline; /* Subrayado */
+    text-decoration: underline;
+    /* Subrayado */
     color: #2c3e50;
 }
 
@@ -23,8 +24,9 @@ h1 {
     background: linear-gradient(135deg, #000000, #140266);
     padding: 20px;
     border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
+
 .menu {
     max-width: 700px;
     margin: 20px auto;
@@ -35,23 +37,41 @@ h1 {
     background: #ffffff;
     padding: 20px;
     border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 
-.foto{
+.foto {
     float: left;
 }
-.escudo{
+
+.escudo {
     float: left;
     margin: 33px -153px 0 59px;
 }
-.escudo2{
+
+.escudo2 {
     float: left;
     margin: 39px 0px -215px 927px;
 }
 
-.datos-personales ul{
+.datos-personales ul {
     float: left;
     margin: 116px 0px 0 0px;
+}
+
+.titulos {
+    margin: 20px 0 0 0;
+    font-size: 1.2em;
+    line-height: 0.6;
+    color: #f8d300;
+    background: linear-gradient(50deg, #000000, #ffffff00);
+    padding: 10px 0 30px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.titulos svg {
+    width: 30px;
+    margin: 0 10px 0 0;
 }
