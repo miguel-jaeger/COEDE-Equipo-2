@@ -25,6 +25,19 @@ h1 {
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
+.menu {
+    max-width: 700px;
+    margin: 20px auto;
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #34495e;
+    text-align: justify;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
 
 .foto{
     float: left;
@@ -32,5 +45,5 @@ h1 {
 
 .datos-personales ul{
     float: left;
-    margin: 139px 0 0 19px;
+    margin: 116px 0px 0 0px;
 }
